@@ -1,0 +1,9 @@
+В ветку master подмерджили ветки boots_buttons и hat,
+а в ветку demo подмерджили ветки boots, buttons и hat.
+В удаленном репозитории 6 коммитов:
+init
+heat added
+boots
+README added
+dors
+fix readme
